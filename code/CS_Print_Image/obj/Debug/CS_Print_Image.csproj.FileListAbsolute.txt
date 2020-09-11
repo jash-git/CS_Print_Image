@@ -1,0 +1,9 @@
+C:\Users\jashliao\Desktop\CS_Print_Image\CS_Print_Image\bin\Debug\CS_Print_Image.exe.config
+C:\Users\jashliao\Desktop\CS_Print_Image\CS_Print_Image\bin\Debug\CS_Print_Image.exe
+C:\Users\jashliao\Desktop\CS_Print_Image\CS_Print_Image\bin\Debug\CS_Print_Image.pdb
+C:\Users\jashliao\Desktop\CS_Print_Image\CS_Print_Image\obj\Debug\CS_Print_Image.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS_Print_Image\CS_Print_Image\obj\Debug\CS_Print_Image.Form1.resources
+C:\Users\jashliao\Desktop\CS_Print_Image\CS_Print_Image\obj\Debug\CS_Print_Image.Properties.Resources.resources
+C:\Users\jashliao\Desktop\CS_Print_Image\CS_Print_Image\obj\Debug\CS_Print_Image.csproj.GenerateResource.Cache
+C:\Users\jashliao\Desktop\CS_Print_Image\CS_Print_Image\obj\Debug\CS_Print_Image.exe
+C:\Users\jashliao\Desktop\CS_Print_Image\CS_Print_Image\obj\Debug\CS_Print_Image.pdb
